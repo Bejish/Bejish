@@ -123,7 +123,7 @@ My work spans the chip design flow from RTL to physical layout, with a focus on:
 | **Design Flow** | RTL Design, Logic Synthesis, STA, Place & Route, Power Analysis, Low-Power VLSI |
 | **EDA Tools** | Cadence Virtuoso, Synopsys Custom Compiler, StarRC, Xilinx Vivado, OpenLane, Yosys, LTspice, KiCad |
 | **FPGA & Embedded** | FPGA Prototyping, Hardware Integration, Hardware Debugging |
-| **Programming** | C, C++, Python, Java, Perl |
+| **Programming** | C, C++, Python, Perl |
 | **Platforms** | Linux, Git, GitHub |
 
 ---
